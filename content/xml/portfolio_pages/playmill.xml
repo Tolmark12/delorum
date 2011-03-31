@@ -1,0 +1,31 @@
+<MAIN>
+	<page imageDir="playmill/">
+		<row css="header,white" columnPadding="40" marginBottom="15" bgColor="#BDAD7C">
+			<col span="2">
+				<txt yMod="60"><h1>And the criticis say...</h1><p>Audience response has been overwhelmingly positive, encouraging the launch of summer theatre camps and a complete line of private label fudge. Playmill loves the change and tripled their promotion budget after the first year.</p></txt>
+			</col>
+			<col float="right">
+				<img src="talk_bubble.jpg" />
+			</col>
+		</row>
+		<row css="header,white" totalColumns="2" bgColor="#A6976C" marginBottom="-26" columnPadding="90" padding="40">
+			<col float="left">
+				<img src="three_posters.jpg" yMod="-26"/>
+			</col>
+			<col>
+				<txt yMod="66"><h1>Stretching the Rules of Printing</h1><p>For Playmill’s printed collateral, format was key to gaining public attention. We shifted Playmill’s collateral to a lengthened vertical format, nearly doubling the poster height. The longer format is completely distinct and builds easily recognized brand continuity between campaigns. Beyond that, the format takes advantage of production processes, and has actually reduced Playmill’s production costs.</p></txt>
+			</col>
+		</row>
+		<row totalColumns="1">
+			<col float="left"><img src="long_strip.jpg"/></col>
+		</row>
+		<row css="header,white,padded"  bgColor="#BDAD7C" columnPadding="0" >
+			<col>
+				<txt><h1>Zig and Zag</h1><p>Engaging, lighthearted illustration provides a charming alternative to tired western cliches. The bold painterly </p><p>style differentiates Playmill from </p><p>typical tourist imagery while directly referencing Playmill's signature pre-show. The campaign illustrations were quickly adopted as the basis for the theatre’s redesigned interiors, earning Delorum show tickets, free fudge and a Northwest Region Silver Addy. </p></txt>
+			</col>
+			<col span="2" align="center">
+				<img src="sketch.jpg"/>
+			</col>
+		</row>
+	</page>
+</MAIN>

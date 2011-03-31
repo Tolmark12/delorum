@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site>
+	<nav xmlDir="content/xml/" defaultSection="home">
+		<nav_item section="home" buttonType="logo" contentType="home_08" xml="sections/home08.xml" colorScheme="business_cards" clickAction="newSection" >
+			<title>na</title>
+		</nav_item>
+		<nav_item section="portfolio" contentType="portfolio" xml="sections/portfolio.xml" colorScheme="dark" clickAction="newSection" >
+			<title>Our Work</title>
+		</nav_item>
+		<nav_item section="about" contentType="about_us" xml="sections/about.xml" colorScheme="orange" clickAction="newSection" >
+			<title>About</title>
+		</nav_item>
+		<nav_item section="contact" contentType="contact" colorScheme="tan" clickAction="sendNotification" clickActionParam="SHOW_CONTACT_INFO">
+			<title>Contact</title>
+		</nav_item>
+		<nav_item section="jobs" contentType="jobs" colorScheme="orange" xml="sections/jobs.xml" clickAction="newSection" >
+			<title>Jobs</title>
+		</nav_item>
+	</nav>
+</site>

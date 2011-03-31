@@ -1,0 +1,118 @@
+<HOME>
+	<css>
+		<main>
+		  p {
+		   	font-size:18;
+		   	color:#636565;
+		   }
+		   h1{
+		   	display:block;
+		   	font-size:24;
+		   	color:#D65C23;
+		   }
+		</main>
+		<blurb>
+		  p {
+		   	font-size:14;
+		   	color:#636565;
+		   }
+		   h1{
+		   	display:block;
+		   	font-size:15;
+		   	color:#D65C23;
+		   }
+		</blurb>
+	</css>
+	<image src="content/images/shared/e_commerce_live.jpg" />
+	<blurbs>
+		<leftBlurb>
+			<h1>Design and Branding</h1>
+			<body>Current economic challenges have many of us hunkered down just hoping to survive the downturn. However this general climate of business timidity is opening the door for new players to step in and seize portions of marketshare that may have been inaccessible even two years ago.</body>
+			<btn text="What We're Doing Now" url="/#/portfolio/" icon="ARROW" />
+		</leftBlurb>
+		<rightBlurb>
+			<h1>E-Commerce</h1>
+			<body>Launching an ecommerce site can be a lot like launching an army of robots (a nice-robots-that-sell-things sort of an army). We've developed an ecommerce primer to get your site launched and flowing smoothly with as little running amok as possible.</body>
+			<btn text="Ecommerce Survival Guide" url="http://www.delorumcommerce.com" icon="ARROW" />
+		</rightBlurb>
+	</blurbs>
+	
+	<slides>
+		<slide>
+			<img src="content/images/home/cards/tiny-brick.jpg" />
+			<h1>TinyBrick</h1>
+			<body>Tiny brick sells software modules for the popular eCommerce framework Magento. We provided naming, branding, illustration, and design in a concerted effort to push them to the forefront of the Magento module development industry. </body>
+			<btns>
+				<btn text="Launch Web Site" url="http://www.tinybrick.com/" icon="WEB" />
+			</btns>
+		</slide>
+		<slide>
+			<img src="content/images/home/cards/allen-bros.jpg" />
+			<h1>Allen Brothers Steaks - Resetting the Table</h1>
+			<body>Allen Brothers Steaks provides the finest beef in the country and needed a website to match. Delorum teamed up with Allen Brothers to reposition their online brand experience and provide a new ecommerce platform. While maintaining the integrity that Allen Brothers has built over the last 120 years we provided them with the technology to administer their users experience. </body>
+			<btns>
+				<btn text="Launch Web Site" url="http://www.allenbrothers.com/" icon="WEB" />
+			</btns>
+		</slide>
+		<slide>
+			<img src="content/images/home/cards/eric-kiel2.jpg" />
+			<h1>Eric Kiel Photography Site Launch</h1>
+			<body>Kiel's work spans a diverse range of subject matter, and his site needed to strike a balance between showcasing his client work and giving access to his large stock catalogue. Our design keeps his work front and center with minimal user interface. A powerful backend administration system gives Kiel's staff control over updates and site edits.</body>
+			<btns>
+				<btn text="Launch Web Site" url="http://www.kielphoto.com/#/stock" icon="WEB" />
+			</btns>
+		</slide>
+		<slide>
+			<img src="content/images/home/cards/potandon2.jpg" />
+			<h1>Green Giant Packaging Redesign</h1>
+			<body>We've redesigned Green Giant's Klondike line of potatoes to emphasize delicious taste and freshness. Rich photography of prepared dishes sets the Klondike line apart from competitor products typically packaged in low end bags.</body>
+			<btns>
+				<btn text="View Our Full Design Portfolio" url="#/portfolio/" icon="CASE_HOME" />
+			</btns>
+		</slide>
+		<slide href="#/portfolio/Ibex/case_study">
+			<img src="content/images/home/cards/ibex.jpg" />
+			<h1>Ibex Trucking Corporate Site Launch</h1>
+			<body>We've recently launched a new corporate site for Ibex Trucking. The site extends Ibex's hard-working-no-nonsense brand. In preparation for the site redesign, Delorum worked closely with photographer Eric Kiel to create imagery that communicated the authenticity of Ibex's working man corporate culture.</body>
+			<btns>
+				<btn text="Ibex Branding Case Study" url="#/portfolio/Ibex/case_study" icon="CASE_HOME" />
+				<btn text="Launch Web Site" url="http://www.ibexincorporated.com" icon="WEB" />
+			</btns>
+		</slide>
+		<slide href="/#/portfolio/Brand_Development/case_study">
+			<img src="content/images/home/cards/neu_seed.jpg" />
+			<h1>NeuSeed Logo Design</h1>
+			<body>NeuSeed's work is on the cutting edge of genetic engineering. Our challenge was to create a logo that reflected this without overshadowing their focus on natural genetic processes. The final result is an intelligent mark, not only comfortable in front of investors, but right at home stitched to a hay & feed clerk's hat.</body>
+			<btns>
+				<btn text="View More Logos" url="/#/portfolio/Brand_Development/case_study" icon="CASE_HOME" />
+			</btns>
+		</slide>
+		<!-- <slide href="/#/portfolio/Zumiez/case_study">
+			<img src="content/images/home/cards/zumiez.jpg" />
+			<h1>Zumiez e-Commerce Replatform Complete</h1>`
+			<body>Delorum worked closely with skateboarding clothing retailer Zumiez to port their eCommerce site to a new platform. We are proud to announce the launch of their new site.</body>
+			<btns>
+				<btn text="View Case Study" url="/#/portfolio/Zumiez/case_study" icon="CASE_HOME" />
+				<btn text="Launch Web Site" url="http://www.zumiez.com/guys.html" icon="WEB" />
+			</btns>
+		</slide> -->
+		<slide href="/#/portfolio/Idahoan_Potatoes/case_study">
+			<img src="content/images/home/cards/idahoan.jpg" />
+			<h1>Idahoan Potatoes Corporate Site</h1>
+			<body>We've recently launched a new website for Idahoan potatoes. The redesign provided a unique opportunity to extend the scope of Idahoan's brand beyond the retail space and begin offering values unique to the web. Thus far, online recipes and downloadable coupons have proven immensely popular.</body>
+		<btns>
+			<btn text="View Full Case Study" url="/#/portfolio/Idahoan_Potatoes/case_study" icon="CASE_HOME" />
+			<btn text="Launch Web Site" url="http://www.idahoan.com/" icon="WEB" />
+		</btns>
+		</slide>
+		<slide href="/#/portfolio/Playmill_Theatre/case_study">
+			<img src="content/images/home/cards/playmill.jpg" />
+			<h1>Playmill Theatre 2009 Marketing Materials</h1>
+			<body>For the past 5 years, Delorum has designed the promotional materials for the Playmill Theatre in West Yellowstone Montana. This year's poster echoes the beautiful hand-drawn typography of early theatre bills and vintage record album art.</body>
+			<btns>
+				<btn text="View The Playmill Case Study" url="/#/portfolio/Playmill_Theatre/case_study" icon="CASE_HOME" />
+				<btn text="See The Full Size Poster" url="http://www.delorum.com/client/playmill/playmill_09_huge.jpg" icon="CASE2" />
+			</btns>
+		</slide>
+	</slides>
+</HOME>

@@ -1,0 +1,116 @@
+<SCHEMES>	
+	<!-- !! IMPORTANT !! -->
+	<!-- The default node must be the first node -->
+	<colorScheme id="default">
+		<colors 
+			 bg="1A1B1F"
+			 nav_up="FFFFFF"
+			 nav_hover="D4B17D"
+			 nav_active="F2CA8F"
+			 nav_divide="D4B17D"
+			 scrollbar_track="000000"
+			 scrollbar_track_border="222222"
+			 scrollbar_bar="4F555E"
+			 work_h1="B55E1E"
+			 work_h2="7C9DAF"
+			 work_body="222222"
+			 logo="404040"
+			 logo_hover="FFFFFF"
+		/>
+	</colorScheme>
+	<!-- !! IMPORTANT !! -->
+	
+	<colorScheme id="business_cards">
+		<colors
+			 bg="e8e4cf"
+			 nav_up="636466"
+			 nav_hover="ED7920"
+			 logo="636466"
+			 logo_hover="ED7920"
+		/>
+	</colorScheme>
+	
+	<colorScheme id="tan">
+		<colors 
+			 nav_hover="000000"
+			 bg="978061"
+		/>
+	</colorScheme>
+	
+	
+	<colorScheme id="brown">
+		<colors 
+			 bg="454240"
+			 nav_up="918985"
+			 nav_hover="FCFCF0"
+			 nav_active="FCFCF0"
+			 scrollbar_track="322F2E"
+			 scrollbar_track_border="322F2E"
+			 scrollbar_bar="484541"
+			 logo="918985"
+			 logo_hover="FFFFFF"
+		/>
+	</colorScheme>
+	
+	<colorScheme id="orange">
+		<colors 
+			 nav_divide="FBC97B"
+			 nav_hover="333333"
+			 nav_active="000000"
+			 bg="F9A146"
+		/>
+	</colorScheme>
+	
+	<colorScheme id="color">
+		<colors 
+			 nav_hover="333333"
+			 nav_active="000000"
+			 bg="138D9C"
+		/>
+	</colorScheme>
+	
+	<colorScheme id="black">
+		<colors 
+			 bg="000000"
+		/>
+	</colorScheme>
+	
+	<colorScheme id="dark">
+		<colors 
+			 nav_divide="666666"
+			 logo="FFFFFF"
+			 logo_hover="6994A1"
+			 bg="222222"
+			 scrollbar_track="111111"
+			 scrollbar_track_border="222222"
+			 scrollbar_bar="222222"
+		/>
+	</colorScheme>
+	
+	<colorScheme id="white">
+		<colors 
+			 bg="FFFFFF"
+			 nav_up="666666"
+			 nav_hover="FF9D2E"
+			 nav_active="000000"
+			 scrollbar_track="CCCCCC"
+			 scrollbar_track_border="AAAAAA"
+			 scrollbar_bar="FFFFFF"
+			 logo="222222"
+		/>
+	</colorScheme>
+	
+	<colorScheme id="light_grey">
+		<colors 
+			 bg="cccccc"
+			 nav_up="666666"
+			 nav_hover="FF9D2E"
+			 nav_active="000000"
+			 scrollbar_track="CCCCCC"
+			 scrollbar_track_border="AAAAAA"
+			 scrollbar_bar="FFFFFF"
+			 logo="FFFFFF"
+		/>
+	</colorScheme>
+	
+</SCHEMES>

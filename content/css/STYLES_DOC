@@ -1,0 +1,74 @@
+Todo: drop shadows
+
+------------------------------- 
+ROW STYLES:
+-------------------------------
+	
+::: background
+::: bgWidth
+::: bgHeight
+
+:::	bgColor
+ 	- Background color
+	>> bgColor:#FFFFFF
+	
+:::	padding
+ 	- padding around the row??
+	>> padding:12
+	
+:::	columnPadding
+ 	- padding between the columns
+	>> columnPadding:12
+	
+:::	totalColumns
+ 	- the number of columns in a row
+	>> totalColumns:3
+	
+:::	bgAlpha
+ 	- the transparency of a bg color
+	>> bgAlpha:0.5
+	
+:::	marginTop
+ 	- the space above the content of a row, will be filled with the background
+	>> marginTop:10
+
+::: marginBottom
+	>> marginTBottom:10
+	
+------------------------------- 
+COLUMN STYLES:
+-------------------------------	
+
+::: align
+	- How to align a column's items 
+	[right, left, center]
+	>> align:left
+	
+::: float
+	- How to align a column's items 
+	[right, left, center]
+	>> align:left
+	
+::: stack
+	- To stack multiple column objects vertically or horizontally
+	[horizontal, vertical, none]
+	>> stack:horizontal 
+	
+::: stackPadding
+	- The number of pixels between stacked column items
+	>> stackPadding:20
+                          
+
+------------------------------- 
+COLUMN OBJECT STYLES: (IMAGE, SLIDES, TEXT, VIDEO, BTN)
+-------------------------------
+
+::: xMod
+	- A number to modify the x position of the image
+	xMod:-50 
+
+::: yMod
+	- A number to modify the y position of the image
+	yMod:50
+
+

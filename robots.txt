@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /client
+Disallow: /xml
+Disallow: FlashDev
+Disallow: mparson
